@@ -32,5 +32,5 @@ Let me show the current important keypoints' dot diagram, you will find out ther
 The left gif is the teacher's action, the right image is its dot diagram  
 ![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.png)  
   
-![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.pngg)
+![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.png)
 
