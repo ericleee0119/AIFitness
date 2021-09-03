@@ -29,6 +29,8 @@ Then, at every intermediate point, the teacher thinks can stop and wait for the 
 After the teacher finishes the record, our system will remove unnecessary keypoints and calculate the important keypoints' slope and the angle at each intermediate point.  
 Let me show the current important keypoints' dot diagram, you will find out there are too many points crowding together which make the image messy and also make the system so difficult to calculate  
   
-The left gif is the eacher's action, the right image is its dot diagram  
-![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.png)
+The left gif is the teacher's action, the right image is its dot diagram  
+![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.png)  
+  
+![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.pngg)
 
