@@ -14,9 +14,18 @@ Technical skills and tools:
 2. Keypoint Detection (Mobile)
 3. CodeBlock  
 4. cvui  
-5. Algorithm to compare the action between teachers and students
-6. TCP  
-7. RTSP  
+5. Algorithm to compare the action between teachers and students  
+6. hierarchical clustering  
+7. TCP  
+8. RTSP  
 ...  
+  
+  
+## Teacher Part:  
+We will give some rules to the teacher when they record their actions.  
+When they press the start button, we will show a clock to countdown, the teacher needs to pose their first fitness posture in time.
+Then, at every intermediate point, the teacher thinks can stop and wait for the student, the teacher needs to keep this posture and wait for a few seconds for the system to mark this posture as an Interrupt point
+
+  
 
 
