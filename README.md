@@ -1,6 +1,7 @@
 # AIFitness  
 This is the project I finished at the individual enterprise.  
 Because the property of this project belongs to the company, therefore, I can only put some demo videos and do some brief introduction.  
+The source code of this project is saving is the GitLab of the individual enterprise I worked in  
 
 In this project, we have 2 identification, students and teachers.  
   
@@ -28,5 +29,6 @@ Then, at every intermediate point, the teacher thinks can stop and wait for the 
 After the teacher finishes the record, our system will remove unnecessary keypoints and calculate the important keypoints' slope and the angle at each intermediate point.  
 Let me show the current important keypoints' dot diagram, you will find out there are too many points crowding together which make the image messy and also make the system so difficult to calculate  
   
-
+The left gif is the eacher's action, the right image is its dot diagram  
+![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl.gif) ![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl.PNG)
 
