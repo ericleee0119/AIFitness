@@ -32,5 +32,9 @@ Let me show the current important keypoints' dot diagram, you will find out ther
 The left gif is the teacher's action, the right image is its dot diagram  
 ![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/curl_resize.png)  
   
-![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.png)
+![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.gif)![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.png)  
 
+To solve the problem above, I use hierarchical clustering to reduce the amount of the point and make sure in each region, we will have one dot to indicate.  
+The below images show the result of hierarchical clustering at only interrupt points  
+
+![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_resize.png) ![image](https://github.com/ericleee0119/AIFitness/blob/main/image/hangOn_hier.png)  
