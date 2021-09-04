@@ -12,13 +12,16 @@ The student can select the action they would like to do, then the teacher from o
 
 Technical skills and tools:  
 1. Keypoint Detection (AlphaPose)  
-2. Keypoint Detection (Mobile)
-3. CodeBlock  
+2. Keypoint Detection (Mobile)  
+3. CodeBlock(C++)  
 4. cvui  
 5. Algorithm to compare the action between teachers and students  
 6. hierarchical clustering  
 7. TCP  
 8. RTSP  
+9. Linux  
+10. real-time system  
+11. Multi-Thread  
 ...  
   
   
@@ -44,4 +47,10 @@ The below image shows the angle
 ![image](https://github.com/ericleee0119/AIFitness/blob/main/image/angle.PNG)  
   
   
-## Student Part:
+## Student Part:  
+Our system can real-time compare the student's action and the teacher's action.  
+If the student does the action correctly, we will show green lines. If not, we will have red lines or dots on the student's incorrect body parts  
+We have tested different actions in different situation, different people, different distance...  
+The below videos will link to the demo video for student's part. Left top part is the teacher. and the middle window is the student's real-time screen  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4xrF8aYNxGc/0.jpg)](https://www.youtube.com/watch?v=4xrF8aYNxGc)  
+
