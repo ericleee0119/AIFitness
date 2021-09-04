@@ -52,5 +52,9 @@ Our system can real-time compare the student's action and the teacher's action.
 If the student does the action correctly, we will show green lines. If not, we will have red lines or dots on the student's incorrect body parts  
 We have tested different actions in different situation, different people, different distance...  
 The below videos will link to the demo video for student's part. Left top part is the teacher. and the middle window is the student's real-time screen  
+Demo Video 1  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4xrF8aYNxGc/0.jpg)](https://www.youtube.com/watch?v=4xrF8aYNxGc)  
+
+Demo Video 2  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZgFXeIFG1uw/0.jpg)](https://www.youtube.com/watch?v=ZgFXeIFG1uw)  
 
