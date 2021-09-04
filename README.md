@@ -42,3 +42,6 @@ The below images show the result of hierarchical clustering at only interrupt po
 We will record the coordinate of the teacher's important keypoint moving and calculate the angle and slope of the interrupt point, and use the information to determine if the student does a correct fitness action  
 The below image shows the angle  
 ![image](https://github.com/ericleee0119/AIFitness/blob/main/image/angle.PNG)  
+  
+  
+## Student Part:
