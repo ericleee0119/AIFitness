@@ -26,7 +26,7 @@ Technical skills and tools:
   
   
 ## Teacher Part:  
-We will give some rules to the teacher when they record their actions.  
+We give some rules to the teacher when they record their actions.  
 When they press the start button, we will show a clock to countdown, the teacher needs to pose their first fitness posture in time.  
 Then, at every intermediate point that the teacher thinks can stop and wait for the student, the teacher needs to keep this posture and wait for a few seconds for the system to mark this posture as an Interrupt point  
 After the teacher finishes the record, our system will remove unnecessary keypoints and calculate the important keypoints' slope and the angle at each intermediate point.  
