@@ -58,3 +58,9 @@ Demo Video 1
 Demo Video 2  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZgFXeIFG1uw/0.jpg)](https://www.youtube.com/watch?v=ZgFXeIFG1uw)  
 
+## Follow-Up:  
+We have used the mobile phone as a camera, and also do the keypoint detection by mobile phone.  
+The mobile phone can pass the frame and keypoint information through TCP & RTSP to the PC.  
+The PC will calculate the teacher's action or compare the action between the teacher and the student  
+We totally have 3 threads, one is for passing video frame, another is for passing the keypoint information, the last one is for computing  
+We have already finished all jobs I have mentioned above.  
